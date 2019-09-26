@@ -1,0 +1,11 @@
+c:\users\frank\documents\visual studio 2013\Projects\CalculadoraV2\CalculadoraV2\bin\Debug\CalculadoraV2.exe.config
+c:\users\frank\documents\visual studio 2013\Projects\CalculadoraV2\CalculadoraV2\bin\Debug\CalculadoraV2.exe
+c:\users\frank\documents\visual studio 2013\Projects\CalculadoraV2\CalculadoraV2\bin\Debug\CalculadoraV2.pdb
+c:\users\frank\documents\visual studio 2013\Projects\CalculadoraV2\CalculadoraV2\bin\Debug\CalculadoraV2.xml
+c:\users\frank\documents\visual studio 2013\Projects\CalculadoraV2\CalculadoraV2\obj\Debug\CalculadoraV2.Form1.resources
+c:\users\frank\documents\visual studio 2013\Projects\CalculadoraV2\CalculadoraV2\obj\Debug\CalculadoraV2.Resources.resources
+c:\users\frank\documents\visual studio 2013\Projects\CalculadoraV2\CalculadoraV2\obj\Debug\CalculadoraV2.vbproj.GenerateResource.Cache
+c:\users\frank\documents\visual studio 2013\Projects\CalculadoraV2\CalculadoraV2\obj\Debug\CalculadoraV2.exe
+c:\users\frank\documents\visual studio 2013\Projects\CalculadoraV2\CalculadoraV2\obj\Debug\CalculadoraV2.xml
+c:\users\frank\documents\visual studio 2013\Projects\CalculadoraV2\CalculadoraV2\obj\Debug\CalculadoraV2.pdb
+C:\Users\Frank\Documents\Visual Studio 2013\Projects\CalculadoraV2\CalculadoraV2\obj\Debug\CalculadoraV2.vbprojResolveAssemblyReference.cache
