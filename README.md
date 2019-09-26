@@ -1,6 +1,6 @@
 # CalculadoraV2
 hecha en visual basic 
 
-![](https://raw.githubusercontent.com/FapCod/CalculadoraV2/Captura.PNG)
+![](https://github.com/FapCod/CalculadoraV2/blob/master/Captura.PNG)
 
 
